@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @eliascreates
 - 👀 I’m interested in music, video editing, coding, mobile apps
-- 🌱 I’m currently learning ios app development
-- 💞️ I’m looking to collaborate on ios apps
+- 🌱 I’m currently learning iOS app development with Swift & android app development with Flutter
+- 💞️ I’m looking to collaborate on ios apps & flutter apps
 - 📫 How to reach me @thapeloelias.kekana@gmail.com
 
 <!---
